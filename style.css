@@ -40,7 +40,7 @@ header nav ul li {
   border-bottom: 1px solid rgb(0, 174, 255);
 }
 
-.project img, #aboutme img {
+.project img, #aboutme img, #genius-hour img, #paintapp gif {
   width: 250px;
   float: left;
   margin-right: 10px;
@@ -48,7 +48,7 @@ header nav ul li {
 
 }
 
-.project h2, #aboutme h2 {
+.project h2, #aboutme h2, #genius-hour h2, #paintapp h2 {
   font-size: 1.5em;
   margin-bottom: 10px;
 }
