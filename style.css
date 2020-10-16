@@ -28,7 +28,7 @@ header nav ul li {
   display: inline;
 }
 
-#project-container, #aboutme {
+#project-container, #aboutme , #genius-hour, #paintapp {
   margin: 0 auto;
   width: 90%;
   max-width: 600px;
